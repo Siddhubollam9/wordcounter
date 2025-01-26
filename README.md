@@ -44,3 +44,5 @@ Counts the number of words in the given text.
 ### `main()`
 Handles user input, displays the word count, and provides a loop to continuously accept input. This function also gracefully handles empty input and offers an exit option.
 
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
