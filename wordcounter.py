@@ -1,8 +1,6 @@
 def count_words(text):
     """
     Counts the number of words in the given text.
-    :param text: Input string
-    :return: Integer count of words
     """
     words = text.split()
     return len(words)
